@@ -13,6 +13,24 @@
 
 这个项目不仅提供了全部的字形设计源文件，也提供了构建字体所需要的完整程序。
 
+## ！！开发状态！！
+
+本字体目前还处于早期开发阶段，所有尺寸仍然缺少大量汉字。
+
+其中 12 像素为主要开发目标，其次为 10 像素。16 像素目前为实验性质。
+
+- 当前目标
+
+目前正在全力实现 12 像素对 GB232 的覆盖（目前进度大概在 45%），以实现第一个可用版本。
+
+预计完成时间在 2022 年 5 月底。
+
+- 比例字体
+
+可以在下面的线程中讨论这个问题：
+
+https://github.com/TakWolf/ark-pixel-font/discussions/4
+
 ## 预览
 
 可以通过 [Playground](https://ark-pixel-font.takwolf.com/playground.html) 在线实时预览字体样式。
@@ -147,6 +165,12 @@ python ./build.py
 
 - [收款码](https://github.com/TakWolf/TakWolf/blob/master/payment-qr-codes.md)
 - [爱发电](https://afdian.net/@takwolf)
+
+请务必备注「方舟像素字体」，这样才会被统计到该项目的赞助商列表中。
+
+可以在下面的链接中查看该项目收到的具体赞助情况：
+
+[方舟像素字体 - 赞助](SPONSORS.md)
 
 ## 参考资料
 
